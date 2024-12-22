@@ -4,17 +4,17 @@
 ---
 
 ## Table of Contents
-- [Git Commands](#%EF%B8%8F-git-commands)
-- [HTML Structure](#html-structure)
-- [CSS Utilities](#css-utilities)
-- [JavaScript Snippets](#javascript-snippets)
-- [React Essentials](#react-essentials)
-- [Command Line Shortcuts](#command-line-shortcuts)
-- [VS Code Shortcuts](#vs-code-shortcuts)
-- [Docker Basics](#docker-basics)
-- [SQL Queries](#sql-queries)
-- [Markdown Syntax](#markdown-syntax)
-- [Bonus: API Status Codes](#bonus-api-status-codes)
+- [Git Commands](#️-git-commands)
+- [HTML Structure](#-html-structure)
+- [CSS Utilities](#-css-utilities)
+- [JavaScript Snippets](#-javascript-snippets)
+- [React Essentials](#-react-essentials)
+- [Command Line Shortcuts](#-command-line-shortcuts)
+- [VS Code Shortcuts](#️-vs-code-shortcuts)
+- [Docker Basics](#-docker-basics)
+- [SQL Queries](#️-sql-queries)
+- [Markdown Syntax](#️-markdown-syntax)
+- [Bonus: API Status Codes](#-bonus-api-status-codes)
 
 ---
 
