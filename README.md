@@ -4,17 +4,17 @@
 ---
 
 ## Table of Contents
-- [Git Commands](#%EF%B8%8F-git-commands)  
-- [HTML Structure](#%F0%9F%8C%90-html-structure)  
-- [CSS Utilities](#%F0%9F%8E%A8-css-utilities)  
-- [JavaScript Snippets](#%F0%9F%A7%A0-javascript-snippets)  
-- [React Essentials](#%E2%9A%9B%EF%B8%8F-react-essentials)  
-- [Command Line Shortcuts](#%F0%9F%92%BB-command-line-shortcuts)  
-- [VS Code Shortcuts](#%F0%9F%96%A5%EF%B8%8F-vs-code-shortcuts)  
-- [Docker Basics](#%F0%9F%90%B3-docker-basics)  
-- [SQL Queries](#%F0%9F%97%84%EF%B8%8F-sql-queries)  
-- [Markdown Syntax](#%F0%9F%93%9D-markdown-syntax)  
-- [Bonus: API Status Codes](#%F0%9F%9A%80-bonus-api-status-codes)
+- [Git Commands](#%EF%B8%8F-git-commands)
+- [HTML Structure](#html-structure)
+- [CSS Utilities](#css-utilities)
+- [JavaScript Snippets](#javascript-snippets)
+- [React Essentials](#react-essentials)
+- [Command Line Shortcuts](#command-line-shortcuts)
+- [VS Code Shortcuts](#vs-code-shortcuts)
+- [Docker Basics](#docker-basics)
+- [SQL Queries](#sql-queries)
+- [Markdown Syntax](#markdown-syntax)
+- [Bonus: API Status Codes](#bonus-api-status-codes)
 
 ---
 
